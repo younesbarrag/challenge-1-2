@@ -1,5 +1,5 @@
 <?php
-$debts = ["younes" => 50, "meriem" => 120, "Yassine" => 80, "Leila" => 250, "Omar" => 30];
+$debts = ["younes" => 60, "meriem" => 120, "Yassine" => 80, "Leila" => 250, "Omar" => 30];
 $total = 0;
 
 foreach ($debts as $name => $amount) {
